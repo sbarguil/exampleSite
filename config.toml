@@ -1,0 +1,50 @@
+title = "Notre-Dame de Paris"
+baseURL = "https://sbarguil.github.io/ciclismo_a_fondo/"
+languageCode = "en-us"
+theme = "ananke"
+#themesDir = "../.."
+#resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+cannonycalURL = true
+
+[languages]
+  [languages.en]
+    title = "Ciclismo A Fondo"
+    weight = 1
+    contentDir = "content/en"
+  [languages.es]
+    title = "Nuestro Blog"
+    weight = 2
+    contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  commentoEnable = true
+  show_reading_time = true
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/metodo.jpg"
+  recent_posts_number = 3
