@@ -1,5 +1,5 @@
 ---
-title: Metogología 
+title: Metodología 
 featured_image: "images/metodo.jpg" 
 omit_header_text:
 true description: Este es nuestro Método 
