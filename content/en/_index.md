@@ -1,7 +1,7 @@
 ---
 title: "Ciclismo a lo Grande"
 featured_image: '/images/dmitrii-vaccinium-9qsK2QHidmg-unsplash2.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "Disciplina, Determinación, Dedicación y Cuidado de los Detalles"
 ---
 
 **Nuestros Principios nos permiten ser claros en los terminos y condiciones.**
@@ -13,6 +13,8 @@ description: "The last theme you'll ever need. Maybe."
 | 📉|  |El seguimiento es constante a traves de trainingpeaks.  |
 | 📣|**Somos claros** | No somos nutricionistas. SIEMPRE derivamos esa parte a especialistas. | 
 | 🔝|**No hay camino Rapido** | Si crees que hay atajos, no te servimos. | 
+
+----
 
 > Contratas un entrenador🤝, el amigo puede venir más tarde.
 
