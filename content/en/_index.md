@@ -18,4 +18,4 @@ description: "Disciplina, Determinación, Dedicación y Cuidado de los Detalles"
 
 > Contratas un entrenador🤝, el amigo puede venir más tarde.
 
--[] Estas listo
+-[x] Estas listo

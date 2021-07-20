@@ -6,11 +6,20 @@ tags: ["service","tranning"]
 title: "Nuestro Servicio: Como Se Ofrece"
 ---
 
-El servicio se presta por medio de la plataforma Training Peaks. Allí, el atleta debe vincular como entrenador al “orientador” por medio del siguiente [enlace](https://home.trainingpeaks.com/attachtocoach?sharedKey=5CPSWHNZNQ6MA). En la plataforma semanalmente se “carga” una asignación de entrenamientos al atleta, la naturaleza y periodicidad se consensua con el deportista directamente o, preferiblemente, por medio del formato encuesta rendimiento deportista que el usuario diligencia (y renueva) cada semestre.
+El servicio se presta por medio de la plataforma Training Peaks. Allí,
+el atleta debe vincular como entrenador al “orientador” por medio del
+siguiente [enlace](https://home.trainingpeaks.com/attachtocoach?sharedKey=5CPSWHNZNQ6MA).
 
-## Material Mínimo
+En la plataforma semanalmente se “carga” una asignación de
+entrenamientos al atleta, la naturaleza y periodicidad se consensua
+con el deportista directamente o, preferiblemente, por medio del
+formato encuesta rendimiento deportista que el usuario diligencia
+(y renueva) cada semestre.
 
-Para el uso del servicio el usuario debe contar mínimo con los siguientes elementos.
+# Material Mínimo
+
+Para el uso del servicio el usuario debe contar mínimo con los
+siguientes elementos.
 
 - Suscripción gratuita a Training Peaks
 - Bicicleta de carretera en buenas condiciones mecánicas
@@ -19,9 +28,11 @@ Para el uso del servicio el usuario debe contar mínimo con los siguientes eleme
 - Sensor de cadencia instalado en la bicicleta de carretera
 - Cuenta kilómetros o ciclocomputador
 
-## Material Sugerido
+# Material Sugerido
 
-Para gozar del servicio en las mejores condiciones posibles es deseable que el usuario pueda contar con los siguientes elementos, adicionales a lo minimos:
+Para gozar del servicio en las mejores condiciones posibles es
+deseable que el usuario pueda contar con los siguientes elementos,
+adicionales a lo minimos:
 
 - Rodillo o ciclo-simulador inteligente
 
