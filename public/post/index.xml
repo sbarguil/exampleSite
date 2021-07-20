@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuestro Blog on Ciclismo a lo grande</title>
+    <link>https://sbarguil.github.io/ciclismo_a_fondo/post/</link>
+    <description>Recent content in Nuestro Blog on Ciclismo a lo grande</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://sbarguil.github.io/ciclismo_a_fondo/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primera Entrada</title>
+      <link>https://sbarguil.github.io/ciclismo_a_fondo/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://sbarguil.github.io/ciclismo_a_fondo/post/chapter-1/</guid>
+      <description>Es una orientación en la distribución de la carga de entrenamiento del deportista en un lapso determinado, periodización . La distribución se realiza, principalmente, atendiendo a los antecedentes deportivos del atleta y los objetivos a mediano o largo plazo que este tenga. Consiste en un distribuir la carga diaria de entrenamiento del atleta en un periodo mínimo de cuatro (4) meses, al término de los cuales se espera que el ciclista pueda encontrar una un estado de forma física óptimo para atender su objetivo.</description>
+    </item>
+    
+  </channel>
+</rss>
