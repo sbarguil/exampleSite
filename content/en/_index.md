@@ -1,5 +1,5 @@
 ---
-title: "Ciclismo a lo Grande"
+title: "La Fuga De La Fuga"
 featured_image: '/images/dmitrii-vaccinium-9qsK2QHidmg-unsplash2.jpg'
 description: "Disciplina, Determinación, Dedicación y Cuidado de los Detalles"
 ---
